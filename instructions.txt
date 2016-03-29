@@ -1,0 +1,3 @@
+GIT Basic Instructions
+
+This file contains basic instructions for using GIT and GITHUB.
